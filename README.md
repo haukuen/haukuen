@@ -1,4 +1,6 @@
-<img width = "300" src = "https://count.getloli.com/get/@HauKuen?theme=rule34">
+<a>
+    <img width = "300px" src = "https://count.getloli.com/get/@HauKuen?theme=rule34">
+</a>
 
 <img  align = "right" src = "https://github-readme-stats.vercel.app/api?username=HauKuen&show_icons=true&theme=gruvbox">
 
