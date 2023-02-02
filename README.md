@@ -1,8 +1,8 @@
-<a>
-    <img width = "300px" src = "https://count.getloli.com/get/@HauKuen?theme=rule34">
-</a>
-
-<img  align = "right" src = "https://github-readme-stats.vercel.app/api?username=HauKuen&show_icons=true&theme=gruvbox">
+<p>
+    <img align = "left" src = "https://count.getloli.com/get/@HauKuen?theme=rule34">
+    <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=HauKuen&show_icons=true&theme=gruvbox">
+</p>
+</br></br></br>
 
 # 👋  I'm HauKuen
 - :runner: A college junior
