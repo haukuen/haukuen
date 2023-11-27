@@ -7,7 +7,6 @@
 # 👋  I'm HauKuen
 - :runner: A college junior
 - :chicken: Just a rookie
-- :book: Preparing for graduate school
 
 ### languages
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
