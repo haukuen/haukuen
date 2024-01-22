@@ -4,8 +4,7 @@
 </p>
 </br></br></br>
 
-# 👋  I'm HauKuen
-- :runner: A college junior
+# 👋  Hi
 - :chicken: Just a rookie
 
 ### languages
